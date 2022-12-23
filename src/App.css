@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+
+body {
+  font-family: 'Roboto';
+}
+
+h1 {
+  color: rgb(60, 60, 60);
+  font-weight: 300;
+}
+
+hr {
+  color: rgb(125, 125, 125);
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.side-nav {
+  font-family: 'Roboto';
+  font-weight: 500;
+  background-color: #ff8000 !important;
+}
+
+.page {
+  text-align: center;
+  font-weight: 300;
+}
+
+[role="radiogroup"] label span:nth-child(2) {
+  font-weight: 300;
+}
+
+div[class*="sidenav---sidenav-nav"] div[class*="sidenav---expanded"] div[role="menu"][class*="sidenav-subnav"] {
+  background-color: rgba(0, 0, 0, .5);
+}
