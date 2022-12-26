@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/943.eb017f75.chunk.js","mappings":"+IAMA,UAJA,WACE,OAAO,gBAAKA,UAAU,OAAM,kBAC9B,C","sources":["pages/zTable/ZHome.jsx"],"sourcesContent":["import React from 'react';\n\nfunction ZHome() {\n  return <div className=\"page\">ZHome</div>;\n}\n\nexport default ZHome;\n"],"names":["className"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/9.74476f05.chunk.js","mappings":"6IAMA,UAJA,WACE,OAAO,gBAAKA,UAAU,OAAM,sBAC9B,C","sources":["pages/chiSqTable/ChiSqHome.jsx"],"sourcesContent":["import React from 'react';\n\nfunction ChiSqHome() {\n  return <div className=\"page\">ChiSqHome</div>;\n}\n\nexport default ChiSqHome;\n"],"names":["className"],"sourceRoot":""}

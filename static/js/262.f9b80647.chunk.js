@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_sidebar=self.webpackChunkreact_sidebar||[]).push([[262],{262:function(e,a,r){r.r(a);r(2791);var s=r(184);a.default=function(){return(0,s.jsx)("div",{className:"page",children:"THome"})}}}]);
+//# sourceMappingURL=262.f9b80647.chunk.js.map

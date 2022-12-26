@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/262.f9b80647.chunk.js","mappings":"8IAMA,UAJA,WACE,OAAO,gBAAKA,UAAU,OAAM,kBAC9B,C","sources":["pages/tTable/THome.jsx"],"sourcesContent":["import React from 'react';\n\nfunction THome() {\n  return <div className=\"page\">THome</div>;\n}\n\nexport default THome;\n"],"names":["className"],"sourceRoot":""}

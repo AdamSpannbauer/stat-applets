@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/54.0cf43d20.chunk.js","mappings":"8IAMA,UAJA,WACE,OAAO,gBAAKA,UAAU,OAAM,uBAC9B,C","sources":["pages/chiSqTable/ChiSqFromP.jsx"],"sourcesContent":["import React from 'react';\n\nfunction ChiSqFromP() {\n  return <div className=\"page\">ChiSqFromP</div>;\n}\n\nexport default ChiSqFromP;\n"],"names":["className"],"sourceRoot":""}
